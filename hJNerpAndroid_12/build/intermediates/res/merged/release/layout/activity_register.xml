@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/enterprise_logo22" />
+
+    <com.hjnerp.widget.ClearEditText
+        android:id="@+id/ar_reg_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ar_input_phone"
+        android:layout_marginLeft="20dp"
+        android:inputType="phone"
+        android:singleLine="true"
+        android:maxLength="11"
+        android:layout_marginRight="20dp"
+        android:background="@null"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:drawableLeft="@drawable/creat_username_slt"
+        android:drawablePadding="10dp"
+
+        android:textSize="18.0sp"
+        android:paddingBottom="8.0dip"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="23dip"
+        android:layout_marginRight="23dip"
+        android:layout_marginTop="@dimen/GCSmallPadding"
+        android:background="#E5E5E5" />
+    <com.hjnerp.widget.ClearEditText
+        android:id="@+id/ar_reg_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ar_input_code"
+        android:layout_marginLeft="20dp"
+        android:inputType="textPassword"
+        android:singleLine="true"
+        android:layout_below="@id/ar_reg_phone"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@null"
+        android:drawableLeft="@drawable/icon_register_password"
+        android:drawablePadding="5dp"
+        android:textSize="18.0sp"
+        android:paddingBottom="8.0dip"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="23dip"
+        android:layout_marginRight="23dip"
+        android:layout_marginTop="@dimen/GCSmallPadding"
+        android:background="#E5E5E5" />
+   <Button
+        android:id="@+id/ar_reg_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:layout_marginLeft="20dp"
+        android:text="@string/ar_reg_btn"
+        android:textSize="20sp" 
+        android:textColor="@color/white"
+        android:layout_below="@id/ar_reg_code"
+       android:layout_marginRight="20dp"
+       android:layout_marginTop="20dp"
+       android:background="@drawable/register_btn_style"
+        />
+
+</LinearLayout>

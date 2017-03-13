@@ -1,0 +1,7 @@
+#Fri Mar 10 10:49:20 CST 2017
+base.0=D\:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_77fca37740832d3e828a7249b0a933d88e60efaa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f8e1d5ea42bdb88c2359c95757cbaa1713f80222\\classes.dex
+base.1=D\:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f8e1d5ea42bdb88c2359c95757cbaa1713f80222
+file.0=D\:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_77fca37740832d3e828a7249b0a933d88e60efaa\\classes.dex

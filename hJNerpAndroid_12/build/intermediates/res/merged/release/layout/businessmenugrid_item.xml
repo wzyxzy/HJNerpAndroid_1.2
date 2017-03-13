@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/space_location"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/business_child_item_bkg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp">
+
+        <ImageView
+            android:id="@+id/imagegrid"
+            android:layout_width="@dimen/abc_square_image_size35"
+            android:layout_height="@dimen/abc_square_image_size35"
+            android:layout_centerInParent="true"
+            android:background="#00000000"
+            android:src="@drawable/recommend_from_qrcode" />
+
+        <View
+            android:id="@+id/tv_paopao_businessmenuitemgrid"
+            android:layout_width="12dip"
+            android:layout_height="12dip"
+            android:layout_toRightOf="@id/imagegrid"
+            android:background="@drawable/tab_newmsg_text"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="10dip"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tv_menutitlegrid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxEms="6"
+        android:maxLines="2"
+        android:text="类型1"
+        android:textColor="#302b2b"
+        android:textSize="14sp" />
+
+
+</LinearLayout>

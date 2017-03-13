@@ -1,0 +1,621 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 91,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2300,
+                        "endColumn": 98,
+                        "endOffset": 2394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 6945,
+                        "endLine": 144,
+                        "endColumn": 12,
+                        "endOffset": 7163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 761
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 766,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 6778,
+                        "endLine": 139,
+                        "endColumn": 12,
+                        "endOffset": 6937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 5385,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 5541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1261,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1385,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 2292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2422
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2710,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2427,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2605
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 3,
+                        "startOffset": 1192,
+                        "endLine": 26,
+                        "endColumn": 11,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2610,
+                    "endColumn": 70,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endColumn": 82,
+                    "endOffset": 2759
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2764,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3169
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3174,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3591
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3596,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 3867
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 5549,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 5823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3872,
+                    "endColumn": 119,
+                    "endOffset": 3987
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3992,
+                    "endColumn": 62,
+                    "endOffset": 4050
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4055,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4204
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4209,
+                    "endColumn": 62,
+                    "endOffset": 4267
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4272,
+                    "endColumn": 131,
+                    "endOffset": 4399
+                },
+                "from": {
+                    "file": "C:\\Users\\Admin\\.android\\build-cache\\243bfd67cf8c3c52ee91818c8455f422bf304a21\\output\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4404,
+                    "endColumn": 82,
+                    "endOffset": 4482
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 89,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4487,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 5727
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 4826,
+                        "endLine": 105,
+                        "endColumn": 12,
+                        "endOffset": 5377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5732,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 6003
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3256,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 3532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 6008,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 6269
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2982,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 3248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 6274,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 6902
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4180,
+                        "endLine": 94,
+                        "endColumn": 12,
+                        "endOffset": 4818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6907,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 7147
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 6527,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 6770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7152,
+                    "endLine": 129,
+                    "endColumn": 12,
+                    "endOffset": 7774
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3540,
+                        "endLine": 82,
+                        "endColumn": 12,
+                        "endOffset": 4172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7779,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 8104
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 5831,
+                        "endLine": 122,
+                        "endColumn": 12,
+                        "endOffset": 6162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 8109,
+                    "endLine": 143,
+                    "endColumn": 12,
+                    "endOffset": 8433
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 6170,
+                        "endLine": 130,
+                        "endColumn": 12,
+                        "endOffset": 6500
+                    }
+                }
+            }
+        ]
+    }
+]
