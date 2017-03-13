@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\actionbar_search.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\actionbar_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\map.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\map.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\performance_menu.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\performance_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\qiandao_upload.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\qiandao_upload.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\friendinfo.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\friendinfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\groupchat.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\groupchat.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\chat.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\menu\\chat_send.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\menu\\chat_send.xml"
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\file.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\file.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_action_search.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_action_action_search.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\spinner_ab_focused_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_focused_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\spinner_ab_default_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_default_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chatting_setmode_keyboard_btn_normal.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\takephoto_icon_normal.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\takephoto_icon_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\checked.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\file_press.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\file_press.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\set_wrapdata.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\set_wrapdata.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\type_select_btn_pressed.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\type_select_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\hjcom.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\hjcom.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_unselected_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cab_background_bottom_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\cab_background_bottom_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\default_chatroom.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\default_chatroom.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_dropdown_panel_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\menu_dropdown_panel_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\hjlocation_input.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\hjlocation_input.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mylocation.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\mylocation.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\location_select.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\location_select.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\list_focused_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\list_focused_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\default_fmessage.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\default_fmessage.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\userguide_nearfirends_icon.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\userguide_nearfirends_icon.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ab_bottom_solid_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\ab_bottom_solid_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\location_green.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\location_green.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_unselected_focused_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_navigation_close.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_action_navigation_close.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ab_transparent_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\ab_transparent_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_selected_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\tab_selected_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\a6s.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\a6s.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_cab_done_pressed_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_pressed_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\spinner_ab_disabled_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_disabled_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\hjlocation_leftimage.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\hjlocation_leftimage.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ab_stacked_solid_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\ab_stacked_solid_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_selected_pressed_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bujige.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\bujige.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_navigation_arrow_back_inverted.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_action_navigation_arrow_back_inverted.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\more_vert.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\more_vert.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_navigation_arrow_back.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_action_navigation_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_suggestion.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_suggestion.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\spinner_ab_pressed_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_pressed_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_voice_search_inverted.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_action_voice_search_inverted.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\location_red.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\location_red.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_navigation_close_inverted.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_action_navigation_close_inverted.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\a6w.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\a6w.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\app_panel_friendcard_icon.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\app_panel_friendcard_icon.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_selected_focused_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\location.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\location.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chatting_setmode_voice_btn_normal.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\chatting_setmode_voice_btn_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_voice_search.png",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\59daa574428a9c3226b6c965577f60ace1caa87d\\output\\res\\drawable-xxhdpi\\ic_action_voice_search.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\more.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\takephoto_icon_pressed.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\takephoto_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\type_select_btn_nor.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\type_select_btn_nor.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\location_blue.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\location_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_cab_done_focused_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_focused_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chatting_setmode_voice_btn_pressed.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\chatting_setmode_voice_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ab_texture_tile_hjactionbar.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\ab_texture_tile_hjactionbar.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\progress_primary_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\progress_primary_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\my_location.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\my_location.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cab_background_top_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\cab_background_top_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_cab_done_default_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_default_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ab_solid_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\ab_solid_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_unselected_pressed_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chatting_setmode_keyboard_btn_pressed.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\chatting_setmode_keyboard_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\progress_secondary_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\progress_secondary_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\check.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\round_green.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\round_green.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\progress_bg_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\progress_bg_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\set_wrapdata_normal.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\set_wrapdata_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\need.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\need.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\list_pressed_hjactionbar.9.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\list_pressed_hjactionbar.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\a6l.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\a6l.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\round_red.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\round_red.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\position0.png",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\drawable-xxhdpi\\position0.png"
+    }
+]

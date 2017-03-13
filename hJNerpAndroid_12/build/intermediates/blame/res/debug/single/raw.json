@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\raw\\smsreceived1.wav",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\raw\\smsreceived1.wav"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\raw\\hjandroidclient.bks",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\raw\\hjandroidclient.bks"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

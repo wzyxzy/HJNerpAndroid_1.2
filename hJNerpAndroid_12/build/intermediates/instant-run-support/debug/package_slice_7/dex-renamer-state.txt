@@ -1,0 +1,4 @@
+#Fri Mar 10 10:00:09 CST 2017
+base.0=D\:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=D\:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

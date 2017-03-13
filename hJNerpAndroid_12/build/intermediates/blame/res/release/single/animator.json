@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\animator\\rotateup_right_in.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\animator\\rotateup_right_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\animator\\rotateup_right_out.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\hJNerpAndroid_12\\src\\main\\res\\animator\\rotateup_right_out.xml"
+    }
+]
