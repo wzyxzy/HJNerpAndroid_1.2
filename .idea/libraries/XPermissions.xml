@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XPermissions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hJNerpAndroid_12/libs/XPermissions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
