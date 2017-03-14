@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_wait.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_wait.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\Android\\AndroidNerpApp\\HJNerpAndroid_1.2\\librarys\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]
