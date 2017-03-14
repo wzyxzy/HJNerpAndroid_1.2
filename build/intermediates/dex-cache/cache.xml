@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_ee716282e023abd410941174466543f7caafa980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\core_52ff60d184607ce42fdadff7af958069fcc9f378\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\universal-image-loader-1.9.3_ee716282e023abd410941174466543f7caafa980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\core_52ff60d184607ce42fdadff7af958069fcc9f378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\zbar_6246b8c77b0bd8d18a7eda911f93b45868fa203f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\zbar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\zbar_6246b8c77b0bd8d18a7eda911f93b45868fa203f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\XPermissions.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1c5cab4402d70be61aa350a834cec9ac3cbb47a">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\XPermissions_62d42553265ff9bff6039637b2a61b89087f4185\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\librarys\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6db0dafedfe00e288687185995bcff0d276e68e">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\classes_05cf113c042f4fd1d3b52ac8bb218b89a1e54440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\XPermissions.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1c5cab4402d70be61aa350a834cec9ac3cbb47a">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\XPermissions_62d42553265ff9bff6039637b2a61b89087f4185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\ht380a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afa42cc66c4967f902af74846b5122924d27f963">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\ht380a_7bd685bc90c5f4f097786b49c14c08aa1a79048d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\ht380a.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afa42cc66c4967f902af74846b5122924d27f963">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\ht380a_7bd685bc90c5f4f097786b49c14c08aa1a79048d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_344ac39936cf484e0376a2e764fc7648ab1ccb7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_77fca37740832d3e828a7249b0a933d88e60efaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a898d1368658f19b9e9799ab1d3fcb6d01b45875">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\BaiduLBS_Android_3b6a6953e7cfc1cac8fa47c93daedcdfa5b418ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_344ac39936cf484e0376a2e764fc7648ab1ccb7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a898d1368658f19b9e9799ab1d3fcb6d01b45875">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_3b6a6953e7cfc1cac8fa47c93daedcdfa5b418ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\testinagent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74c9dd0f470774ce814613041f04adeecc803900">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\testinagent_99d1fc638797af0c7a6981e875d79a9aefe1a693\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\testinagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74c9dd0f470774ce814613041f04adeecc803900">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\testinagent_99d1fc638797af0c7a6981e875d79a9aefe1a693.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\httpmime-4.2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="270386011895bc6c7ee6496fd87511d6a98093c1">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.6_6e2a54ab00f4ff858533021ff3e43651c677e18f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\voaacencoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f6f934b603f872d37d5c5096921c759e216304">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\voaacencoder_102664138c25ea4bd856a31bebab2aacd2236104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\httpmime-4.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="270386011895bc6c7ee6496fd87511d6a98093c1">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\httpmime-4.2.6_6e2a54ab00f4ff858533021ff3e43651c677e18f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\voaacencoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f6f934b603f872d37d5c5096921c759e216304">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\voaacencoder_102664138c25ea4bd856a31bebab2aacd2236104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_a88638f7e1bb3d785ea323251fc4daee00254a23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2613433cfaf71ed893962b3b938ddcc955a9b8d">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8e1d5ea42bdb88c2359c95757cbaa1713f80222\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\Android\AndroidNerpApp\HJNerpAndroid_1.2\hJNerpAndroid_12\build\intermediates\pre-dexed\release\achartengine-1.1.0_a88638f7e1bb3d785ea323251fc4daee00254a23.jar" />
+    </item>
+
+</items>
