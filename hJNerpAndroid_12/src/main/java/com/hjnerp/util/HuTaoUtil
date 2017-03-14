@@ -1,6 +1,0 @@
-public class HuTaoUtil {
-
-  public static void showHutao() {
-      return "hello hutao";
-  }
-}
